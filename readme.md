@@ -11,7 +11,7 @@ The Text Editor SDK features writing assistance to your end users across several
 - **Engagement** - Chooses the most compelling words and uses varied, engaging sentence structure.
 - **Delivery** - Helps end users find the right tone, eliminates hedging language (to sound more confident), finesses phrases to have more tact and empathy for readers, and supports respectful and current language practices.
 
-**Note:** Some suggestions may only be available to paid Grammarly users who connect their account; however, writing quality features like grammar, spelling, and punctuation assistance is free for your users forever.
+**Note:** Some suggestions may only be available to paid Grammarly users who connect their account; however, writing quality features like grammar, spelling, and punctuation assistance are free for your users forever.
 
 ## Code examples 🧑‍💻
 
