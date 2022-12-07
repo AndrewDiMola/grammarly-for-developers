@@ -67,7 +67,8 @@ You can find Grammarly for Developers on social media. Be sure to follow us on y
 
 Your go-to source for all things related to Grammarly for Developers.
 
-{automated posts}
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Other resources 📖
 
