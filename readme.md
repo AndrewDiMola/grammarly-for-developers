@@ -62,10 +62,16 @@ You can find Grammarly for Developers on social media. Be sure to follow us on y
 - [Grammarly for Developers on Twitter](https://twitter.com/GrammarlyDevs)
 - [Grammarly for Developers on YouTube](https://www.youtube.com/channel/UCQ7exNMjFiVoPI5gebc7FNA)
 - [Grammarly for Developers on Twitch](https://www.twitch.tv/GrammarlyDevs)
+
+## Blog posts 📕
+
+Your go-to source for all things related to Grammarly for Developers.
+
+{automated posts}
+
 ## Other resources 📖
 
 Here are some other Grammarly for Developers resources:
 - [Homepage](https://developer.grammarly.com)
 - [Status](https://status.grammarly.com/)
 - [Documentation](https://developer.grammarly.com/docs/)
-- [Blog](https://www.grammarly.com/blog/developer/)
