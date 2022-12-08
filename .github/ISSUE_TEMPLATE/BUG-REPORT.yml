@@ -1,9 +1,9 @@
 name: Bug Report
-description: File a bug report
+description: File a bug report.
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
-  - chernetsov
+  - AndrewDiMola
 body:
   - type: dropdown
     id: packages
@@ -86,7 +86,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        If you need urgent support, or have a question specific to your account or application that you want to raise to us one-on-one, please [open a support ticket](https://support.grammarly.com/hc/en-us/requests/new#/resolve-a-technical-issue/text-editor-sdk-api-/).
+        If you need urgent support or have a question specific to your account or application that you want to raise to us one-on-one, please [open a support ticket](https://support.grammarly.com/hc/en-us/requests/new#/resolve-a-technical-issue/text-editor-sdk-api-/).
         
         ---
 #   - type: checkboxes
@@ -98,4 +98,4 @@ body:
 #           required: true
   - type: markdown
     attributes:
-      value: "__Thanks for completing our form!__"
+      value: "__Thank you for helping us improve Grammarly for Developers and the Text Editor SDK!__"
