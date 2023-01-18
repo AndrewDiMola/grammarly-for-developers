@@ -10,19 +10,20 @@
     <link rel="stylesheet" href="/style.css">
   </head>
   <body>
-    <h2>Suggestion Categories (Suggestions for the Oxford comma turned "on")</h2>
+    <h2>Suggestion Categories (Suggestion for avoiding writing fragments turned "on")</h2>
     <p>
       The Grammarly Editor Plugin on this page is set to mute suggestions for the
-      <code>"oxfordComma"</code> writing suggestion category. This category suggests 
-      adding the Oxford comma after the second-to-last item in a list of things.
+      <code>"stylisticFragments"</code> writing suggestion category. This category suggests 
+      completing all incomplete sentences, including stylistic sentence fragments that may 
+      be intentional.
     </p>
     <p>
       <strong>Try the Grammarly Editor Plugin in the text area below!</strong>
     </p>
-    <grammarly-editor-plugin config.activation="immediate" config.suggestionCategories.oxfordComma="on">
+    <grammarly-editor-plugin config.activation="immediate" config.suggestionCategories.stylisticFragments="on">
       <div contenteditable="true">
         <p>
-          Please bring me a pencil, eraser and notebook.
+          Because of the great code example.
         </p>
       </div>
     </grammarly-editor-plugin>
