@@ -8,7 +8,7 @@ You can try the demo in [CodeSandbox](https://codesandbox.io/s/github/grammarly/
 
 ## How it works
 
-[index.html](./public/index.html) and the other HTML files in this repository contain `<div contenteditable>` elements. These elements are wrapped with the `<grammarly-editor-plugin>` web component so that Grammarly suggestions will be displayed in them. 
+[index.html](./public/index.html) and the other HTML files in this repository contain `<div contenteditable>` elements. These elements are wrapped with the `<grammarly-editor-plugin>` web component so that Grammarly suggestions display in the specified text areas. 
 
 HTML attributes on `<grammarly-editor-plugin>` toward the bottom of the file configure the Grammarly Text Editor SDK. See [index.html](./public/index.html) for the full code example.
 
