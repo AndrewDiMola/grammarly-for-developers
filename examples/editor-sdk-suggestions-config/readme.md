@@ -1,6 +1,6 @@
-# Grammarly Text Editor SDK with suggestions config
+# Grammarly Text Editor SDK with suggestionCategories
 
-This demo shows how to [mute categories of writing suggestions](https://developer.grammarly.com/docs/api/editor-sdk/editorconfig#suggestions) in the [Grammarly Text Editor SDK](https://developer.grammarly.com/).
+This demo shows how to turn on [categories of writing suggestions](https://developer.grammarly.com/docs/api/editor-sdk/editorconfig#suggestions) in the [Grammarly Text Editor SDK](https://developer.grammarly.com/).
 
 ## Try the demo
 
