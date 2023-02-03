@@ -6,20 +6,20 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <title>Demo App</title>
+    <title>Suggestion Categories demo</title>
     <link rel="stylesheet" href="/style.css">
   </head>
   <body>
     <h2>Suggestion Categories (Default)</h2>
     <p>
-      When a writing suggestion category is set to "off", as is the case with the seven categories of suggestions that are muted with default settings, any suggestions belonging to that category will be muted (not visible to the user);
-      when a writing suggestion category is set to "on", any suggestions belonging to that category will be surfaced (visible to the user in suggestion underlines).
+      Suggestion categories determine the type of stylistic suggestions that are visible ("on") or muted/not visible ("off") in the Grammarly Text Editor Plugin. 
+      If your app is on the Plus plan, you can configure which suggestion categories are on or off in the plugin. 
     </p>
     <p>
       Note that if a user has connected their Grammarly account to your application, the full set of customized suggestions from their user profile will always take precedence (overriding these configurations).
     </p>
     <p>
-      <strong>Try the Grammarly Editor Plugin in the text area below!</strong>
+      <strong>Try the Grammarly Text Editor Plugin in the text area below!</strong>
       <p>In this example, writing suggestions for unnecessary ellipsis are turned "on".</p>
     </p>
     <grammarly-editor-plugin config.activation="immediate" config.suggestionCategories.unnecessaryEllipses="on">
@@ -30,9 +30,6 @@
       </div>
     </grammarly-editor-plugin>
     <p>
-      Configuring and muting writing suggestion categories is available only on the Grammarly Text Editor SDK Plus plan.
-    </p>
-    <p>
       Explore these other pages to try configurations that turn on different categories of writing suggestions:
       <ul>
         <li><a href="/suggestion-categories/oxford-comma.html">The Oxford comma</a> (<code>"oxfordComma"</code>)</li>
@@ -40,7 +37,7 @@
         <li><a href="/suggestion-categories/stylistic-fragments.html">Stylistic fragments</a> (<code>"stylisticFragments"</code>)</li>
       </ul>
     </p>
-    <h2>Default settings for suggestion categories</h2>
+    <h2>Default settings for Suggestion Categories</h2>
     <p>
       By default, the Grammarly Text Editor SDK mutes (turns "off") seven categories of writing suggestions.
         <ul>
