@@ -26,14 +26,14 @@ These are starter apps you can use as you work through the quick start guide. Th
 **Note:** The quick start guide is shown when you [create a Grammarly for Developers app](https://developer.grammarly.com/apps).
 
 ### Activation
-This app shows how you can set the Text Editor Plugin's [activation property](https://developer.grammarly.com/docs/v2.x/api/editor-sdk/editorconfig#activation) to `focus` or `immediate`. 
+This app shows how you can set the Text Editor Plugin's [activation property](https://developer.grammarly.com/docs/api/editor-sdk/editorconfig#activation) to `focus` or `immediate`. 
 
    - [Activation Example App](./editor-sdk-activation/)
 
 ### Autocomplete
-This app shows how you can turn on [autocomplete](https://developer.grammarly.com/docs/autocomplete) for your app.
+[This app](./editor-sdk-autocomplete/) shows how you can turn on [autocomplete](https://developer.grammarly.com/docs/autocomplete) for your app.
 
-   - [Autocomplete Example App](./editor-sdk-autocomplete/)
+![Autocomplete](https://user-images.githubusercontent.com/5179225/214080804-9a495399-b9fc-4606-8057-84cf7c9ed93f.gif)
 
 **Note:** The Autocomplete feature is only available on the [Plus plan](https://developer.grammarly.com/plans).
 
@@ -43,7 +43,7 @@ This app shows how you can configure the [document dialect](https://developer.gr
    - [Document Dialect Example App](./editor-sdk-document-dialect/)
 
 ### Document domain
-This app shows how you can configure the [document domain](https://developer.grammarly.com/docs/v1.x/api/editor-sdk/domain) for your app. 
+This app shows how you can configure the [document domain](https://developer.grammarly.com/docs/api/editor-sdk/domain) for your app. 
 
    - [Document Domain Example App](./editor-sdk-document-domain/)
 
@@ -60,6 +60,11 @@ These apps show how your app can respond to events (e.g., [`SessionStats`](https
 
    - [Event Listener Example App (JavaScript)](./editor-sdk-events/)
    - [Stats Example App (React)](./editor-sdk-react-stats/)
+
+### Grammarly button menu position
+This app shows how you can configure the [menu position](https://developer.grammarly.com/docs/api/editor-sdk/grammarlybuttonelement#menuposition) of the Grammarly button.
+
+   - [Grammarly Button Menu Position Example App](./editor-sdk-menu-position/)
 
 ### Introductory text
 This app shows how you can configure the [introductory text](https://developer.grammarly.com/docs/customization#introductory-text) that is displayed for new users in suggestion cards.
@@ -126,6 +131,7 @@ The following is a list of code examples organized by the technology the app use
    - [Document Domain Example App](./editor-sdk-document-domain/)
    - [Electron Example App](./electron/)
    - [Event Listener Example App](./editor-sdk-events/)
+   - [Grammarly Button Menu Position Example App](./editor-sdk-menu-position/)
    - [Intro Text Example App](./editor-sdk-intro-text/)
    - [Quill Example App](./editor-sdk-quill/)
    - [Quill Example App (Imperative)](./editor-sdk-quill-imperative/)
