@@ -5,7 +5,7 @@
 [![Grammarly for Developers](https://github.com/grammarly/grammarly-for-developers/blob/main/docs/sdk_product_animation.gif)](https://developer.grammarly.com)
 
 ## About the Text Editor SDK 💻
-The Text Editor SDK provides writing assistance to your end users across several dimensions, including:
+**The Text Editor SDK** provides writing assistance to your end users across several dimensions, including:
 - **Correctness** - Eliminates grammar, spelling, and punctuation mistakes and ensures word choices sound natural and fluent.
 - **Clarity** - Makes every sentence concise and easy to follow and rewrites hard-to-read sentences.
 - **Engagement** - Chooses the most compelling words and uses varied, engaging sentence structure.
@@ -35,6 +35,13 @@ Add our real-time writing assistance to your app with just a few lines of code.
 [react-package]: https://www.npmjs.com/package/@grammarly/editor-sdk-react
 [vue-status]: https://img.shields.io/npm/v/@grammarly/editor-sdk-vue.svg?style=flat&color=green&label=@grammarly/editor-sdk-vue
 [vue-package]: https://www.npmjs.com/package/@grammarly/editor-sdk-vue
+
+### GrammarlyGO Beta in the Text Editor SDK
+**GrammarlyGO** is a brand-new assistant available from Grammarly, powered by generative AI. If you're a developer, you can apply to the GrammarlyGO beta in the Text Editor SDK to assist your users with quick prompts for summarizing text or rewriting for length, tone, and clarity. [Apply for the beta now!](https://developer.grammarly.com/grammarlygo-beta)
+
+✔️ For more information on GrammarlyGO, including information as it relates to other Grammarly products, check out [Grammarly GO - A New Generation in Writing](https://www.grammarly.com/grammarlygo).
+
+![GrammarlyGO_Rewrite-for-Tone-Clarity](https://user-images.githubusercontent.com/5179225/224113202-70cd5c42-e561-4078-9773-ed50038f5e21.gif)
 
 ### Changelog
 We typically release new versions of the SDK on Tuesdays. We occasionally release urgent patches on other days of the week. [Check the changelog](https://developer.grammarly.com/docs/changelog/) for when each version was released and a summary of what was included in each release. 
