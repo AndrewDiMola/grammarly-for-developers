@@ -42,7 +42,7 @@ Add our real-time writing assistance to your app with just a few lines of code.
 
 <img width="488" alt="GrammarlyGO" src="https://user-images.githubusercontent.com/5179225/224142685-78d71965-60a5-48be-9fb7-97b741d88d3c.png">
 
-✔️ For more information on GrammarlyGO, including information as it relates to other Grammarly products, check out [Grammarly GO - A New Generation in Writing](https://www.grammarly.com/grammarlygo).
+✔️ For more information on GrammarlyGO, including information as it relates to other Grammarly products, check out [GrammarlyGO: A New Generation in Writing](https://www.grammarly.com/grammarlygo).
 
 ### Changelog
 We typically release new versions of the SDK on Tuesdays. We occasionally release urgent patches on other days of the week. [Check the changelog](https://developer.grammarly.com/docs/changelog/) for when each version was released and a summary of what was included in each release. 
