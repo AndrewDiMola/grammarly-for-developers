@@ -71,7 +71,7 @@ The [Grammarly for Developers blog](https://www.grammarly.com/blog/developer/) i
 - [The Syntax: What’s New in Grammarly for Developers &lpar;June 2023&rpar;](https://www.grammarly.com/blog/developer/syntax-whats-new-june-2023/)
 - [10 Best Practices for Writing Documentation &lpar;For Those Who Would Rather Do Anything Else&rpar;](https://www.grammarly.com/blog/developer/10-best-practices-writing-documentation/)
 - [How to Add Writing Assistance to Any JavaScript App in Minutes](https://www.grammarly.com/blog/developer/writing-assistance-javascript-app/)
-- [The Syntax: What’s New in Grammarly for Developers &lpar;February 2023&rpar;](https://www.grammarly.com/blog/developer/syntax-whats-new-february-2023/)
+- [3 Ways to Avoid Being a Jerk When You Write](https://www.grammarly.com/blog/developer/3-ways-to-avoid-being-a-jerk-when-you-write/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Other resources 📖
